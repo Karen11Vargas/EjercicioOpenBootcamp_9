@@ -10,7 +10,7 @@
     
  <?php
     
-    require 'Cliente.php';
+    require 'Persona.php';
 
     $persona->setNombre("KarenL");
     $persona->setEdad(16);
